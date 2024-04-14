@@ -1,7 +1,7 @@
 # Opa! Eae, beleza? ✌
 
 - 👨‍💻 20 anos, apreciador de animes, desenhos, video-games, música e de vez em quando edito uns vídeo.
-- 💻 Cursando Engenharia da Computação e aprendendo Python e Game Maker Language.
+- 💻 Cursando Engenharia da Computação e aprendendo Python, Java e Game Maker Language.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-voice&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
