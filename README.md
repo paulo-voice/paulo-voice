@@ -1,7 +1,7 @@
 # Sobre mim 🎭
 
-Sou só um cara de 21 anos apaixonado por jogos, animes e edição de vídeo. 
-Atualmente moro em Minas Gerais mas nasci no Rio de Janeiro 🌴.
+Sou só um cara de 21 anos apaixonado por jogos, animes e edição de vídeo.<br />
+Atualmente moro em Minas Gerais mas nasci no Rio de Janeiro 🌴.<br />
 
 - 💻 Atualmente cursando Engenharia da Computação na UEMG. 
 - 🤖 Estou fazendo alguns cursos de Java e GML por fora. 
