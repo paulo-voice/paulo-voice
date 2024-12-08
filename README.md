@@ -1,7 +1,11 @@
-# Sobre mim
+# Sobre mim 🎭
 
-- 👨‍💻 20 anos, assisto uns animes, jogo umas parada e de vez em quando edito uns vídeo.
-- 💻 Cursando Engenharia da Computação na Universidade do Estado de Minas Gerais e fazendo uns cursinhos de Java e GML.
+Sou só um cara de 21 anos apaixonado por jogos, animes e edição de vídeo. 
+Atualmente moro em Minas Gerais mas nasci no Rio de Janeiro 🌴.
+
+- 💻 Atualmente cursando Engenharia da Computação na UEMG. 
+- 🤖 Estou fazendo alguns cursos de Java e GML por fora. 
+- 🎮 Tenho um discord caso queira entrar em contato de maneira mais informal: voicexd
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-voice&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
